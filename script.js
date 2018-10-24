@@ -1,3 +1,4 @@
+// This is Garbage code
 // var iterator = 0;
 // var color_array = [
 //   "#f44336",
