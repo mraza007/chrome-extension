@@ -1,0 +1,19 @@
+
+{
+ "manifest_version": 2,
+ "name": "Motivational Quotes",
+ "description": "It's a motivation quote generator.",
+ "version": "1.0",
+ "author": "Muhammad",
+
+"browser_action": {
+   // "default_icon": "",
+   "default_title": "Stay Productive"
+ },
+
+"chrome_url_overrides" : {
+  "newtab": "bg.html"
+},
+
+ "permissions": ["activeTab"]
+}
